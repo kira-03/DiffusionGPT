@@ -1,8 +1,16 @@
 # DiffusionGPT: Unified Text-to-Image Generation System
 
-DiffusionGPT is a versatile text-to-image generation system that leverages Large Language Models (LLMs) and integrates domain-specific generative models. It employs Trees-of-Thought to efficiently parse diverse prompts and select the most appropriate model for generating high-quality images across various domains. 
+This project is being undertaken as part of our Natural Language Processing (NLP) course, where we will investigate the capabilities of DiffusionGPT and its applications in text-to-image generation. Our objective is to analyze its performance, explore its functionalities, and understand its potential impact on various use cases in the field of artificial intelligence.
 
-This project is being implemented as part of our NLP course, where we will explore the capabilities of DiffusionGPT and its applications in text-to-image generation.
+## Objectives
+
+- Analyze the performance of DiffusionGPT in generating images from textual descriptions.
+- Explore the functionalities and features of DiffusionGPT.
+- Understand the potential applications and impact of text-to-image generation in AI.
+
+## Resources
+
+For further details on the model and its implementation, please refer to the research paper: [DiffusionGPT](https://arxiv.org/pdf/2401.10061).
 
 <!--
 ## Table of Contents
