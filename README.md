@@ -4,6 +4,7 @@ DiffusionGPT is a versatile text-to-image generation system that leverages Large
 
 This project is being implemented as part of our NLP course, where we will explore the capabilities of DiffusionGPT and its applications in text-to-image generation.
 
+<!--
 ## Table of Contents
 
 - [Key Features](#key-features)
@@ -33,3 +34,4 @@ This project is being implemented as part of our NLP course, where we will explo
    ```bash
    git clone https://github.com/yourusername/DiffusionGPT.git
    cd DiffusionGPT
+   -->
