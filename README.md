@@ -11,6 +11,7 @@ This project is being undertaken as part of our Natural Language Processing (NLP
 ## Resources
 
 For further details on the model and its implementation, please refer to the research paper: [DiffusionGPT](https://arxiv.org/pdf/2401.10061).
+Additionally, you can view our Prezi presentation here: [DiffusionGPT Presentation](https://prezi.com/view/G1g0qcffpGM4xUAx6i3l/).
 
 <!--
 ## Table of Contents
