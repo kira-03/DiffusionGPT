@@ -84,7 +84,7 @@ This system showcases the potential of combining prompt engineering, generative 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Text-to-Image-Generation-System.git
+   git clone https://github.com/kira-03/Text-to-Image-Generation-System.git
    cd Text-to-Image-Generation-System
    ```
 
