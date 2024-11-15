@@ -163,9 +163,6 @@ python main.py
 - **Batch Processing**:
   - Add support for generating multiple images simultaneously.
 
-- **Quantitative Metrics**:
-  - Implement evaluation metrics like FID or CLIP-based similarity scores.
-
 - **User Interface**:
   - Build a web-based interface for seamless interaction.
 
